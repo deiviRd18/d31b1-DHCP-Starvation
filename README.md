@@ -8,7 +8,10 @@
 This tool is for **educational purposes only**. It was developed to demonstrate network vulnerabilities in a controlled laboratory environment. Unauthorized use against systems you do not own is illegal.
 
 ## 🎥 Video Demonstration
-[PASTE YOUR YOUTUBE/DRIVE LINK HERE]
+
+<a href="https://youtu.be/iXkfcU4OUn8" target="_blank">
+ <img src="https://img.youtube.com/vi/iXkfcU4OUn8/maxresdefault.jpg" alt="Ver Video" width="600" border="10" />
+</a>
 
 ---
 
@@ -20,9 +23,7 @@ The main objective of this script is to perform a **Denial of Service (DoS)** at
 * **Victim Server:** Cisco Router (20.24.20.15).
 * **Attacker:** Kali Linux (20.24.20.2).
 * **Interface:** eth0 (VMnet3 Isolated Network).
-
-![Topology Screenshot](img/topology.png)
-
+  
 ## 3. Requirements & Usage
 * **OS:** Kali Linux / Debian-based Linux.
 * **Dependencies:** Python 3, Scapy.
